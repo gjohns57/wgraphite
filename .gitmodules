@@ -1,0 +1,3 @@
+[submodule "gscientific"]
+	path = gscientific
+	url = https://github.com/gjohns57/gscientific.git
